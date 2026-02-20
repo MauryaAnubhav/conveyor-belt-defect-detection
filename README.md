@@ -1,4 +1,4 @@
-# 🚀 Real-Time Conveyor Belt Defect Detection (Prototype)
+# 🚀 Real-Time Conveyor Belt Defect Detection 
 
 ## 📌 Project Overview
 
